@@ -1,11 +1,10 @@
-# Hi there, I'm Amin Talukder 👋  ![Profile Views](https://komarev.com/ghpvc/?username=sayemuzzamansiam&color=blue&style=flat-square) 
+# Hi there, I'm Amin Talukder 👋  ![Profile Views](https://komarev.com/ghpvc/?username=AminTalukder&color=blue&style=flat-square) 
 
 Computer Science graduate specializing in **Machine Learning & Data Science**. Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques 🤖. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.
 
-
 ### 🚀 Machine Learning Enthusiast | Deep Learning Explorer
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical" alt="Sam's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AminTalukder&show_icons=true&theme=radical" alt="Amin's GitHub Stats"/>
 </p>
 
 <!--
@@ -14,14 +13,13 @@ Computer Science graduate specializing in **Machine Learning & Data Science**. P
 -->
 <!--
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayemuzzamansiam&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayemuzzamansiam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AminTalukder&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AminTalukder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayemuzzamansiam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AminTalukder&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 -->
-
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-talukder014/)
